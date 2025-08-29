@@ -21,7 +21,7 @@ Computer Engineer graduated from UFMT with 3+ years of software development expe
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanakagl&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tanakagl&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 🌍 Based in Cuiabá, Mato Grosso, Brazil
