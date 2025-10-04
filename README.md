@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Computer Engineer graduated from UFMT with 3+ years of software development experience. I specialize in full-stack development with expertise in .NET, React, and modern software architectures. Currently leading the development of enterprise-level pension management systems using cutting-edge technologies including React 19, .NET 9, and CQRS architecture.
+Computer Engineer graduated from UFMT with 4+ years of software development experience. I specialize in full-stack development with expertise in .NET, React, and modern software architectures. Currently leading the development of enterprise-level pension management systems using cutting-edge technologies including React 19, .NET 9, and CQRS architecture.
 
 ## 📊 GitHub Stats
 
